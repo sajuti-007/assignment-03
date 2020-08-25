@@ -1,0 +1,111 @@
+
+/*google gont here*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&family=Roboto:wght@300&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Quicksand', sans-serif;
+}
+a,span,p,input{
+	font-family: 'Roboto', sans-serif;
+}
+
+.banner{
+	width: 100%;
+	background-color: #f6f4fc;
+	
+}
+.container{
+	width: 1140px;
+	margin: auto;
+
+	
+
+}
+.row{
+	width: 100%;
+	float: right;
+	margin: 0 -15px;
+
+}
+.banner .coloum-left-1{
+	
+	padding-left: 35px;
+	
+}
+.coloum-left-1{
+	background-color: #f6f4fc;
+	text-align: center;
+	width: 100%;
+	float: right;
+	height: 750px;
+padding: 20px;
+
+}
+.coloum-left-1 h1{
+	text-align: center;
+	padding-top: 40px;
+	margin-bottom: 16px;
+	font-size: 44px;
+	widows: 100%;
+}
+.coloum-left-1 p{
+	text-align: center;}
+		
+.banner .part-1{
+	background-color: #f6f4fc;
+    text-align: center!important;
+    width: 25%;
+    float: left!important;
+    margin-top: 80px;
+    padding: 40px;
+	}
+.part-1 h1{
+	margin-left: 30px;
+}
+.banner .part-2{
+background-color: #f6f4fc;
+    text-align: center!important;
+    width: 26%;
+    float: left!important;
+    margin-top: 88px;
+    padding: 40px;
+}
+.banner .part-3{
+	background-color: #f6f4fc;
+    text-align: center!important;
+    width: 25%;
+    float: left!important;
+    margin-top: 74px;
+    padding: 40px;
+}
+ .banner-1{
+ width: 100%;	
+
+ } 
+.banner-1 .part-4{
+	float: right!important;
+	text-align: center!important;
+	width: 30%!important;
+	 margin-top: 18px!important;
+    padding: 25px!important;
+}
+
+.banner-1 .part-5{
+	 text-align: center!important;
+    width: 23%!important;
+    float: left!important;
+    margin-top: -20px!important;
+  padding: 40px!important;
+}
+.banner-1 .part-6{
+	 text-align: center!important;
+    width: 30%!important;
+    float: left!important;
+    margin-top: -15px!important;
+  padding: 30px!important;
+}
